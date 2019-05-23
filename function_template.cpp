@@ -35,8 +35,9 @@ template <typename T1, typename T2> void print(const T1 str1, const T2 str2){
 
 
 int main(){
+	int a=1, b=1;
 	cout << square(2.0,3.1) << endl;
-	cout << myplus(1+1) << endl;
+	cout << myplus(a,b) << endl;
 	print("123","4567");
 	return 0;
 }
