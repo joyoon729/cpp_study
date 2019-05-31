@@ -22,7 +22,7 @@ int main(){
 				write << str[i];				
 			}
 			if(jump != '\n') write << endl;
-			fill_n(str,100,'\0');
+			fill_n(str,100,'\0'); // fill_n. '\0' 문자로 초기화
 		} 
 	}
 	read.close();
