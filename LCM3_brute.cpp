@@ -1,4 +1,5 @@
 /*
+Least Common Multiple
 세 정수의 최소공배수 구하기 (brute force)
 */
 
