@@ -12,7 +12,7 @@ C++11 에 해당하는 내용들로 구성되어 있습니다.
 
 <br>
 
-## Pre-Knowing
+## Prerequisite
 
 - [ ] auto
 - [ ] range-based for
