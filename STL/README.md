@@ -55,10 +55,10 @@ C++11 에 해당하는 내용들로 구성되어 있습니다.
 - [ ] binary_search
 - [ ] lower_bound
 - [ ] upper_bound
-- [ ] min
-- [ ] max
-- [ ] min_element
-- [ ] max_element
+- [x] min
+- [x] max
+- [x] min_element
+- [x] max_element
 - [ ] next_permutation
 
 <br>
